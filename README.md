@@ -1,5 +1,7 @@
-# Marlin-2.0.5.3
-Marlin configuration files for BTT SKR 1.3 board with TMC 2130 stepper motor drivers
+# Configuration files only for Marlin-2.0.5.3 stable
+You will still have to download Marlin firmware to use the files here.
+
+These configuration files are for a BigTreeTech SKR 1.3 board with TMC 2130 stepper motor drivers in SPI mode
 
 Printer: Ender 3
 
