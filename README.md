@@ -8,3 +8,5 @@ Hardware options enabled: E3D V6 hotend and BLTouch 2.x bed leveling sensor
 Search for text "jpn" to find options I've edited that were not in vanilla Marlin
 
 Use file in marlin/src/pins to silence speaker beeps for menu items
+
+firmware.bin file is a pre-compiled version of all options as they exist in the configuration files posted here.
